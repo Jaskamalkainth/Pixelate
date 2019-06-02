@@ -1,6 +1,6 @@
 # Pixelate
 
-Pixelate your image with some glamarous overlay font images. 
+Pixelate your image with some glamorous overlay font images. 
 
 ## Installation
 
