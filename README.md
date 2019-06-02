@@ -19,6 +19,12 @@ Then just run,
 python3 pixelateYourImage.py
 ```
 
+## Results
+<img src="https://github.com/Jaskamalkainth/Pixelate/blob/master/InpImages/jk.jpg" width="200" height="200" />
+<img src="https://github.com/Jaskamalkainth/Pixelate/blob/master/OutImages/jkPixelate.jpg" width="200" height="200" />
+
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
