@@ -2,12 +2,20 @@
 
 Pixelate your image with some glamarous overlay font images. 
 
+## Installation
+
+Clone or Download the project 
+
+```bash
+git clone https://github.com/Jaskamalkainth/Pixelate.git
+```
+
 ## Usage
 
 1. Add your Image in the inpImage folder
 2. Add this file path in the pixelateYourImage.py
 Then just run,
-```python
+```bash
 python3 pixelateYourImage.py
 ```
 
